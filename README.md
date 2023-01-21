@@ -1,15 +1,7 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
-<br/>
-
-
-
-
-
+  Portfolio Website - v1.0<br/>
+  
+</h2>
 
 
 This project was built using these technologies.
@@ -19,5 +11,3 @@ This project was built using these technologies.
 - Express.js
 - CSS3
 - VsCode
-
-
