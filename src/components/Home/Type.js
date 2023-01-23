@@ -9,7 +9,6 @@ function Type() {
           "Developer",
           "Learner",
           "MERN Stack Developer",
-          "Open Source Contributor",
            "Tech enthusiast",
           "Passionate for Building and Engineering",
         ],
