@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://drive.google.com/file/d/17PWsUBifZ8W2aEUj8eRK0bI3dQ_IAVmW/view?usp=share_link"
+  "https://raw.githubusercontent.com/Parag2812/Portfolio-Website/master/src/Assets/Parag_Resume_2023.pdf"
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
