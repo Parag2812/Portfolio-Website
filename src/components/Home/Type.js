@@ -10,6 +10,8 @@ function Type() {
           "Learner",
           "MERN Stack Developer",
           "Open Source Contributor",
+           "Tech enthusiast",
+          "Passionate for Building and Engineering",
         ],
         autoStart: true,
         loop: true,
